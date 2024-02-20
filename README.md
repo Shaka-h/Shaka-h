@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miriam Shaka</h1>
 <h3 align="center">Highly motivated and skilled software developer with practical experience in Node, Express, React, VueJS, JS, TS, Python, PHP, Solidity, Rust from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daudln&label=Profile%20views&color=0e75b6&style=flat" alt="daudln" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daudln&label=Profile%20views&color=0e75b6&style=flat" alt="shaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaka-h" alt="shaka" /></a> </p>
 
