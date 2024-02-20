@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/daudln" target="blank"><img src="https://img.shields.io/twitter/follow/daudln?logo=twitter&style=for-the-badge" alt="daudln" /></a> </p>
 
-- 💬 Ask me about *React, Vue, Django, PHP, Angular, Express*
+- 💬 Ask me about *Blockchain, Ethereum, DeFi, Cryptos, NFTs*
 
-- 📫 How to reach me *daudnamayala@gmail.com*
+- 📫 How to reach me *miriam.steven.shaka@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
