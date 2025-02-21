@@ -46,6 +46,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" width="40" height="40"/> </a</p>
 <!--     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" width="40" height="40"/> </a> -->
 
