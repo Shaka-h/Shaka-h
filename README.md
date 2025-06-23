@@ -1,6 +1,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaka-h&theme=dracula&hide=css&langs_count=10&layout=donut-vertical" alt="shaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaka-h&show_icons=true&locale=en&theme=dracula" alt="shaka" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=daudln&theme=dracula" alt="GitHub Streak" /></p>
 
@@ -14,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="" height="30" width="40" /></a> -->
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://x.com/ShakaMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/miriam-shaka-8090ab272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a> -->
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/miriam_shaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ict base" height="30" width="40" /></a> -->
