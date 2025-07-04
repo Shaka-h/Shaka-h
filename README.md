@@ -1,9 +1,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaka-h&theme=dracula&hide=css&langs_count=10&layout=donut-vertical" alt="shaka" /></p>
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Shaka-h&theme=dracula" alt="GitHub Streak" /></p>
-
-
 - 💬 Ask me about *Blockchain, Ethereum, DeFi, Cryptos, NFTs*
 
 - 📫 How to reach me *miriam.steven.shaka@gmail.com*
