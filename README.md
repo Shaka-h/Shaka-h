@@ -3,7 +3,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=daudln&theme=dracula" alt="GitHub Streak" /></p>
 
-<p align="left"> <a href="" target="blank"><img src="" alt="shaka" /></a> </p>
 
 - 💬 Ask me about *Blockchain, Ethereum, DeFi, Cryptos, NFTs*
 
